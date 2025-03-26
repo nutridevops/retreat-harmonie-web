@@ -16,9 +16,6 @@ const HeroSection = () => {
         
         <div className="divider"></div>
         
-        <h1 className="text-7xl sm:text-8xl md:text-9xl font-alta text-white tracking-widest animate-fade-in">
-          RETRAITE
-        </h1>
         <h1 className="text-9xl sm:text-[10rem] md:text-[12rem] font-alta text-white tracking-widest animate-fade-in" style={{ letterSpacing: "0.5em" }}>
           R I S E
         </h1>
