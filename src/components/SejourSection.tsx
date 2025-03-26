@@ -20,7 +20,7 @@ const SejourSection = () => {
             </div>
           </div>
           
-          <p className="text-white text-2xl max-w-3xl mx-auto leading-relaxed">
+          <p className="text-white text-2xl max-w-3xl mx-auto leading-relaxed font-montserrat">
             Un cadre d'exception, dévoilé uniquement aux participantes confirmées. Un endroit qui favorise une transformation profonde.
           </p>
           
