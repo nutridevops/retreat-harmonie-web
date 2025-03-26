@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 @font-face {
@@ -124,12 +123,11 @@ html {
 }
 
 .hero-section {
-  background-image: url('/lovable-uploads/2e7c94fe-b052-46dd-8cf4-f8a1de7f047a.png');
+  background-image: url('/lovable-uploads/cb9fdac1-2880-419b-a279-19d825eb5236.png');
   background-size: cover;
   background-position: center;
-  background-color: #BCC3B2;
+  background-color: #7F8169;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   position: relative;
   width: 100%;
   height: 100vh;
