@@ -1,12 +1,72 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+
+import React, { useEffect } from 'react';
+import Navigation from '../components/Navigation';
+import HeroSection from '../components/HeroSection';
+import LieuSection from '../components/LieuSection';
+import MethodeSection from '../components/MethodeSection';
+import ObjectifSection from '../components/ObjectifSection';
+import BeneficesSection from '../components/BeneficesSection';
+import ProgrammeSection from '../components/ProgrammeSection';
+import ActivitesSection from '../components/ActivitesSection';
+import EquipeSection from '../components/EquipeSection';
+import EquilibreSection from '../components/EquilibreSection';
+import SejourSection from '../components/SejourSection';
+import ReservationSection from '../components/ReservationSection';
+import Footer from '../components/Footer';
+import ScrollReveal from '../components/ui/scroll-reveal';
 
 const Index = () => {
+  useEffect(() => {
+    // Scroll to the top when the component mounts
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-gray-600">Start building your amazing project here!</p>
-      </div>
+    <div className="min-h-screen">
+      <Navigation />
+      <HeroSection />
+      
+      <ScrollReveal>
+        <LieuSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <MethodeSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <ObjectifSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <BeneficesSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <ProgrammeSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <ActivitesSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <EquipeSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <EquilibreSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <SejourSection />
+      </ScrollReveal>
+      
+      <ScrollReveal>
+        <ReservationSection />
+      </ScrollReveal>
+      
+      <Footer />
     </div>
   );
 };
