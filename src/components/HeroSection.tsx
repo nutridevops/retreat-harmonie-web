@@ -4,6 +4,7 @@ import React from 'react';
 const HeroSection = () => {
   return (
     <section id="accueil" className="relative min-h-screen flex items-center pt-20 pb-16 hero-section">
+      <div className="absolute inset-0 bg-rise-dark-green/20"></div>
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="flex justify-center mb-10">
           <img 

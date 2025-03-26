@@ -123,10 +123,14 @@ html {
 }
 
 .hero-section {
-  background-image: url('/lovable-uploads/5718956e-9bed-4464-89d4-ef3777db6bbe.png');
+  background-image: url('/lovable-uploads/95f7a999-c208-4d2d-b3a6-362c1ef801fc.png');
   background-size: cover;
   background-position: center;
-  background-color: #bcc3b2;
+  background-color: #BCC3B2;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+  height: 100vh;
 }
 
 .bg-neurofitness {
