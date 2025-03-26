@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="flex justify-center mb-10">
           <img 
-            src="/public/lovable-uploads/085c276e-2ff2-4122-8590-8c48682c78c8.png" 
+            src="/lovable-uploads/085c276e-2ff2-4122-8590-8c48682c78c8.png" 
             alt="Logo R.I.S.E" 
             className="h-24 w-24 animate-scale-in"
           />

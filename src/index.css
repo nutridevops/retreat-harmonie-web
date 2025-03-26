@@ -105,14 +105,14 @@ html {
 
 .divider {
   @apply w-full max-w-xs mx-auto my-6 h-[2px];
-  background-image: url('/public/lovable-uploads/d175939b-1233-4551-8722-6338e3c2043d.png');
+  background-image: url('/lovable-uploads/d175939b-1233-4551-8722-6338e3c2043d.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .brain-icon {
-  background-image: url('/public/lovable-uploads/9c4e4edb-bff0-4ee0-b0bb-8ab1f183ecbb.png');
+  background-image: url('/lovable-uploads/9c4e4edb-bff0-4ee0-b0bb-8ab1f183ecbb.png');
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -123,7 +123,7 @@ html {
 }
 
 .hero-section {
-  background-image: url('/public/lovable-uploads/d6f51f8f-b61e-4436-ba60-2e55f2121142.png');
+  background-image: url('/lovable-uploads/d6f51f8f-b61e-4436-ba60-2e55f2121142.png');
   background-size: cover;
   background-position: center;
 }
