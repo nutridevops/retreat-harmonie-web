@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
 
 @font-face {
@@ -123,25 +124,25 @@ html {
 }
 
 .hero-section {
-  background-image: url('/lovable-uploads/d6f51f8f-b61e-4436-ba60-2e55f2121142.png');
+  background-image: url('/lovable-uploads/d797f297-15b6-49ee-a748-f50036aac07e.png');
   background-size: cover;
   background-position: center;
 }
 
 .bg-neurofitness {
-  background-image: url('/public/lovable-uploads/7900804e-071d-48ea-a157-db6bb600b8a8.png');
+  background-image: url('/lovable-uploads/7900804e-071d-48ea-a157-db6bb600b8a8.png');
   background-size: cover;
   background-position: center;
 }
 
 .bg-neuroperformance {
-  background-image: url('/public/lovable-uploads/b01791d3-2fa7-465a-9a40-8f5d896c6f6b.png');
+  background-image: url('/lovable-uploads/b01791d3-2fa7-465a-9a40-8f5d896c6f6b.png');
   background-size: cover;
   background-position: center;
 }
 
 .bg-neuronutrition {
-  background-image: url('/public/lovable-uploads/d1520ffd-cd97-4438-97a6-56f53639858c.png'); 
+  background-image: url('/lovable-uploads/d1520ffd-cd97-4438-97a6-56f53639858c.png'); 
   background-size: cover;
   background-position: center;
 }
@@ -155,7 +156,7 @@ html {
 }
 
 .icon-decoration {
-  background-image: url('/public/lovable-uploads/33325cb3-15a5-498e-81aa-fccfb6d3a39c.png');
+  background-image: url('/lovable-uploads/33325cb3-15a5-498e-81aa-fccfb6d3a39c.png');
   background-size: contain;
   background-position: right top;
   background-repeat: no-repeat;
