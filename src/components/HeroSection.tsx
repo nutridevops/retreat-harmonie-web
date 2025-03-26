@@ -3,9 +3,9 @@ import React from 'react';
 
 const HeroSection = () => {
   return (
-    <section id="accueil" className="relative min-h-screen flex items-center pt-20 pb-16 hero-section">
-      <div className="absolute inset-0 bg-rise-dark-green/20"></div>
-      <div className="container mx-auto px-4 text-center relative z-10">
+    <section id="accueil" className="hero-section flex items-center justify-center">
+      <div className="absolute inset-0 bg-rise-dark-green/30"></div>
+      <div className="container mx-auto px-4 text-center relative z-10 py-20">
         <div className="flex justify-center mb-10">
           <img 
             src="/lovable-uploads/085c276e-2ff2-4122-8590-8c48682c78c8.png" 
